@@ -1,5 +1,7 @@
 # goit-react-hw-02
 
+- [result](https://vercel.com/bndnts-projects/goit-react-hw-02)
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
