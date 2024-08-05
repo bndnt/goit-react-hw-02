@@ -1,0 +1,7 @@
+.flexBtns {
+  display: flex;
+}
+.flexBtns button {
+  display: block;
+  margin-right: 10px;
+}
